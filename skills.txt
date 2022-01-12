@@ -1,0 +1,1 @@
+There are hard skills and soft skills. The hard skills: git_bash, postman, python etc. 
