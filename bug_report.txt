@@ -6,23 +6,13 @@
         + Date:01/12/2022
 
 
-**Summer:** When my cart contains one item, I am unable to add a second item via the add to cart button on a prodact page.
-**Discription:** None
-**Project:** #12
-**Componen:** None
-**Details:**
-      *Steps to reproduce: Add one item to cart>go to product abc via the search bar>add new item to cart via "add to cart" button"
-      *Expected result: The cart chould contains 2 item
-      *Actual result:The cart contains only 1 item
-        
-
-**Tracking:**
-        *Severity: Major
-        *Priority: High
-        *Assigned to: Mustafa Singh
-        
-
-
+**Summery:** When my cart contains one item, I am unable to add a second item via the add to cart button on a prodact page.
+*Severity: Major
+*Priority: High
+*Steps to reproduce: Add one item to cart>go to product abc via the search bar>add new item to cart via "add to cart" button"
+*Actual result:The cart contains only 1 item      
+*Expected result: The cart chould contains 2 item
+*Assigned to: Mustafa Singh
 
 
 
